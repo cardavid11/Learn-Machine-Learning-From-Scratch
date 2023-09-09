@@ -1,4 +1,4 @@
-# Data Science and Machine Learning Knowledge Repository
+# Data Science and Machine Learning Knowledge Repository (A baseball approach)
 
 Welcome to the Data Science and Machine Learning Knowledge Repository! This repository is a curated collection of resources, articles, tutorials, and links designed to help you explore the exciting world of data science and machine learning.
 
