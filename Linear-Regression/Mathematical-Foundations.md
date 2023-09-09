@@ -17,7 +17,8 @@ At the core of Linear Regression lies a straightforward equation:
 
 Linear Regression aims to find the best-fit line that minimizes the sum of squared differences (residuals) between the observed values and the predicted values. The least squares method achieves this by minimizing the following objective function:
 
-# Minimize $$Σ(yi - ŷi)^2$$  
+Minimize  
+# $$Σ(yi - ŷi)^2$$  
 
 
 - **yi:** Represents the observed values of the dependent variable.
