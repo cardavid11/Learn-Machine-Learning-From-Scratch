@@ -30,11 +30,11 @@ Determining the coefficients (b0 and b1) is a fundamental step in Linear Regress
 
 - **b1 (Slope):** It's calculated as the covariance of X and Y divided by the variance of X:
 
-# $`b1 = Cov(X, Y) / Var(X)`$
+# $$b1 = Cov(X, Y) / Var(X)$$
 
 - **b0 (Intercept):** Once b1 is calculated, you can find b0 using the mean values of X and Y:
 
-# $`b0 = Ȳ - b1 * X̄`$
+# $$b0 = Ȳ - b1 * X̄$$
 
 
 #### Residuals and Goodness of Fit
