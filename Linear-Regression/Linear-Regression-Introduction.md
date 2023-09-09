@@ -28,8 +28,8 @@ To understand linear regression deeply, we need to delve into the mathematics be
 
 To dive deeper into the mathematical aspects of linear regression, you can explore the following resources:
 
-- [Mathematical Foundations of Linear Regression](Linear-Regression/Mathematical-Foundations.md)
-- [Understanding Residuals in Linear Regression](Linear-Regression/Understanding-Residuals.md)
-- [Assumptions and Diagnostics in Linear Regression](Linear-Regression/Assumptions-and-Diagnostics.md)
+- [Mathematical Foundations of Linear Regression](Mathematical-Foundations.md)
+- [Understanding Residuals in Linear Regression](Understanding-Residuals.md)
+- [Assumptions and Diagnostics in Linear Regression](Assumptions-and-Diagnostics.md)
 
 Feel free to navigate through the sections above to build a strong understanding of the mathematical principles behind linear regression.
