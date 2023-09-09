@@ -62,7 +62,7 @@ When dealing with multiple independent variables (multiple linear regression), m
 
 To dive deeper into the mathematical foundations of Linear Regression and enhance your interview preparedness, consider exploring the following resources:
 
-- [Understanding Residuals in Linear Regression](Linear-Regression/Understanding-Residuals.md)
+- [Understanding Residuals in Linear Regression](Understanding-Residuals.md)
 - [Assumptions and Diagnostics in Linear Regression](Linear-Regression/Assumptions-and-Diagnostics.md)
 - [Advanced Topics in Linear Regression](Linear-Regression/Advanced-Topics.md)
 
