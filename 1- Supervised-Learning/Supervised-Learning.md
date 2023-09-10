@@ -3,7 +3,7 @@
 Supervised learning is one of the fundamental paradigms of machine learning. In supervised learning, the algorithm learns from labeled training data, making predictions or decisions without being explicitly programmed. It involves two primary tasks: regression and classification. Supervised learning algorithms learn to map input data to output labels by optimizing a predefined objective function, making them valuable for various real-world applications.
 
 ## Regression Models:
-- [Linear Regression](Linear-Regression/Linear-Regression-Introduction.md)
+- [Linear Regression](Linear-Regression/Linear-Regression.md)
 - Ridge and Lasso Regression
 - Polynomial Regression
 - Support Vector Regression (SVR)
