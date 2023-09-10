@@ -47,9 +47,11 @@ Happy exploring!
 
 Machine learning encompasses various categories, each with its unique characteristics and applications. In this guide, we'll explore the following major categories:
 
-## Supervised Learning
+## Supervised Learning 
 
 Supervised learning is one of the fundamental paradigms of machine learning. In supervised learning, the algorithm learns from labeled training data, making predictions or decisions without being explicitly programmed. It involves two primary tasks: regression and classification. Supervised learning algorithms learn to map input data to output labels by optimizing a predefined objective function, making them valuable for various real-world applications.
+
+[Learn more about Supervised Learning](./Supervised-Learning.md)
 
 ## Unsupervised Learning
 
