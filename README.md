@@ -57,13 +57,19 @@ Supervised learning is one of the fundamental paradigms of machine learning. In 
 
 Unsupervised learning is a branch of machine learning where the algorithm learns patterns and structures in data without explicit supervision. Unlike supervised learning, there are no predefined output labels. Instead, unsupervised learning algorithms focus on finding hidden patterns, grouping similar data points, and reducing dimensionality. Clustering and dimensionality reduction are common tasks in unsupervised learning. This category of machine learning is instrumental in data exploration, feature engineering, and uncovering valuable insights within datasets.
 
+[Learn more about Unsupervised Learning (Soon!)](2-Unsupervised-Learning/Unsupervised-Learning.md)
+
 ## Semi-Supervised Learning
 
 Semi-supervised learning represents a middle ground between supervised and unsupervised learning. In semi-supervised learning, the algorithm leverages both labeled and unlabeled data for training. This approach is particularly useful when obtaining labeled data is expensive or time-consuming, as it allows for harnessing the collective power of limited labeled examples and abundant unlabeled data. Semi-supervised learning techniques aim to improve model performance and generalize better to unseen data by utilizing the combined information from labeled and unlabeled examples.
 
+[Learn more about Semi-Supervised Learning (Soon!)](3-Semi-Supervised-Learning/Semi-Supervised-Learning.md)
+
 ## Reinforcement Learning
 
 Reinforcement learning is a unique paradigm of machine learning inspired by behavioral psychology. It involves an agent that interacts with an environment, learns from the consequences of its actions, and strives to maximize a cumulative reward signal. In reinforcement learning, the agent explores various actions and learns to make decisions that lead to the most favorable outcomes. This category of machine learning has found applications in robotics, game playing, autonomous systems, and many other areas where decision-making is critical.
+
+[Learn more about Reinforcement Learning (Soon!)](4-Reinforcement-Learning/Reinforcement-Learning.md)
 
 # Interview Questions
 
