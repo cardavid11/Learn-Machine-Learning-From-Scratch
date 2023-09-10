@@ -9,7 +9,11 @@ Welcome to the Data Science and Machine Learning Knowledge Repository! This repo
 - [Getting Started](#getting-started)
 - [How to Contribute](#how-to-contribute)
 - [Let's Dive In!](#lets-dive-in)
-- [Linear Regression](#Linear-Regression)
+- [Machine Learning Categories](#Machine-Learning-Categories)
+  - [Supervised Learning](#supervised-learning)
+  - [Unsupervised Learning](#unsupervised-learning)
+  - [Semi-Supervised Learning](#semi-supervised-learning)
+  - [Machine Learning Categories Interview Questions](#Machine-Learning-Categories-Interview-Questions)
 
 ## About This Repository
 
@@ -71,7 +75,7 @@ Reinforcement learning is a unique paradigm of machine learning inspired by beha
 
 [Learn more about Reinforcement Learning (Soon!)](4-Reinforcement-Learning/Reinforcement-Learning.md)
 
-# Interview Questions
+# Machine Learning Categories Interview Questions
 
 ## Question 1: Supervised Learning vs. Unsupervised Learning
 
