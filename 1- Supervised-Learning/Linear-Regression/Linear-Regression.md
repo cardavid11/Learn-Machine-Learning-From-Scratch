@@ -23,7 +23,7 @@
 
 - [Extensions, Variations, and Advanced Topics](#extensions-variations-and-advanced-topics)
 
-- [Hands-On Projects](#hands-on-projects)
+- [Hands-On Projects](#Hands-On-Projects-for-Linear-Regression)
 
 - [Recommended Resources](#recommended-resources)
 
@@ -447,7 +447,9 @@ These extensions, variations, and advanced topics in Linear Regression cater to 
 
 In the following sections, we will explore some of these advanced topics in more detail and provide practical examples to deepen your knowledge of Linear Regression's versatility.
 
-## Hands-On Projects for Linear Regression [Let's practice With R and Python!](Projects/Linear-Regression-Projects.md)
+## Hands-On Projects For Linear Regression 
+
+[Let's learn Linear Regression With R and Python!](Projects/Linear-Regression-Projects.md)
 
 ## Recommended Resources for Learning Linear Regression
 
