@@ -123,26 +123,6 @@ Reinforcement learning is a unique paradigm of machine learning inspired by beha
 Reinforcement learning is suited for tasks where the agent learns from exploration and interaction with its environment, adapting its strategy over time to maximize long-term rewards.
 
 
-<!-- ## Linear Regression
-
-Welcome to the Linear Regression chapter! In this section, we'll explore the fundamental concept of linear regression...
-
-### Chapter 1: Linear Regression: The Baseball Batting Average Tale
-- [Linear Regression: The Baseball Batting Average Tale](Linear-Regression/Linear-Regression-The-Baseball-Batting-Average-Tale.md)
-
-### Introduction, Key Concepts and Mathematics
-- [Introduction to Linear Regression](Linear-Regression/Linear-Regression-Introduction.md)
-
-### Implementation in Python
-- [Python Implementation](Linear-Regression/Python-Implementation.md)
-
-### Implementation in R
-- [R Implementation](Linear-Regression/R-Implementation.md)
-
-### Further Reading
-- [Additional Resources](Linear-Regression/Further-Reading.md) -->
-
-
 
 
 
